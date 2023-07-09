@@ -1,0 +1,29 @@
+{
+    "CausalData": {
+        "train_size": 199,
+        "val_size": 50,
+        "test_size": 28,
+        "no_relation_label": "Other",
+        "id_to_label": {
+            "0": "Other",
+            "1": "화재",
+            "2": "폭발"
+        },
+        "label_to_id": {
+            "Other": 0,
+            "화재": 1,
+            "폭발": 2
+        },
+        "id_to_label_related_only": {
+            "0": "화재",
+            "1": "폭발"
+        },
+        "label_to_id_related_only": {
+            "화재": 0,
+            "폭발": 1
+        },
+        "train_related_only_size": 199,
+        "val_related_only_size": 50,
+        "test_related_only_size": 28
+    }
+}

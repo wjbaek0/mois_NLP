@@ -1,0 +1,44 @@
+방재기술 2 화재조사 화재조사 보고서 
+※ 화재 발생 후 KFPA에서 화재 현장조사 후 작성한 보고서를 기반으로 화재 위험성을 환기시키고 안전관리에 필요한 대책 등을 소개하는 코너입니다.
+ 
+■ 건물 현황 (1) 건물 또는 시설 현황 
+- 대지면적 : 145, 455.0m2 
+- 연면적 합계 : 54, 405.05m2 (총 10개동) 
+- 주요 건물 구성 ·동박동 :  철골조 철 골지붕틀 샌드위치 패널 잇기(40, 816.76㎡) ·사무동 : 철근 콘크리트 슬래브 지붕 (3,091.08㎡) ·AL 동 : 철골 조 철 골지붕틀 샌드위치 패널 잇기 (2,621.19㎡) ·연구동 (4,069.40㎡) 
+- 1층 : 철근 콘크리트 슬래브 지붕 
+- 2층 : 철골 조 철 골지붕틀 샌드위치 패널 잇기 ·정수장 : 철근 콘크리트 슬래브 지붕 (1,922.29㎡)  ·폐수 처리장 (1,090.76.0㎡) 
+- 지하 1층 : 철근 콘크리트 슬래브 지붕 
+- 1층 및 2층 : 철골 조 철 골지붕틀 샌드위치 패널 잇기 (2) 공장 내 소방시설 설치 현황 
+- 소화기, 옥 내소화전설비, 옥외 소화전설비 및 자동화재탐지설비 등 
+■ 화재현황 (1) 개요 
+- 24일 오후 14시 42분경 최모(56)씨 외 3명이 동 박동 2층에서 용접 작업을 하 던 중 1층 연마실에서 발화하여 화염 및 연기가 치솟고 있었다고 진술함.
+ 25방재기술 2 (2) 연소 확대 및 피해 상황 
+- 화재 발생 후 1층 연마실 측에서 작업장 측으로 연소 확대가 이루어졌 고, 화재 진압 장비 27대, 소방관 등 약 135명이 진화작업을 하여 소방차 가 출동한 지 4시간 만에 화재가 진압되었음.
+ 
+- 공장동 1층 연마실에서 최초 화재를 목격 하였으며, 당시 연마실 바로 위층에서 용접 작업을 하고 있었다는 공장 관계자 설명 및 현장 화재조사 등을 종합해 볼 때, 비산된 용접 불티가 1층 연마실 내 적치된 톱밥(연마 용 등 유 흡 착용)에 떨어져 발화되어 건물 전체로 연소가 확대된 것으로 추정됨.
+(사진2, 사진 4 참조) 
+- 화재 현장인 본공장 1층 및 연소 확대가 발생한 2층 작업장은 대부분이 소실되었으며 , 내장재 및 시설물 등이 연소되거나 연기로 인해 피해가 일어난 상태임.
+(사진1, 사진 3 참조) [사진1] 1층 연마실 주변 연소 상황 [사진2] 1층 연마실 연소 상황 [사진3] 1층 연마실 상부측 연소 상황 [사진4] 2층 용접 작업 장소 상황 26 방재기술 2 (3) 피해 상황 
+- 인명 피해 : 없음 
+- 재산 피해 : 약 14억 6천여만원 (소방서 추 산) 
+- 소실 면적 : 본 공장(동박동) 대부분 (약 31,000㎡) [사진5] 용접 작업장소 주위 환경 [사진6] 용접 작업장소 바닥 내 개구부 [사진7] 외벽에 가연성 심재가 포함된 [사진8] 공장 내부 자동방화셔터 미작동 샌드위치 패널 사용 
+■ 분석 내용 1. 발화지점 : 동 박동 2층에서 용접 작업 중 1층 연마실에서 발화 2. 발화 원인 : 용접 작업으 로 인 한 불티로 추정 27방재기술 2 
+■ 대책 및 결론 1. 건축물 연소 확대 방지 대책 
+- 대부분의 공장에서는 철골 조 건축물 신축 시, 건축물의 외벽을 공사비 가 저렴하고 시공이 손 쉬운 샌드위치 패널 구조로 시공하고 있음.
+ 본공 장 화재 사고로 인한 재산피해가 큰 것은 건물의 외벽 및 칸막이 벽을 통하여 급격한 연소 확대와 방화구획 미흡으로 상층으로의 연소확 대가 신속히 진행되어 전소 상황을 초래한 것으로 판단됨.
+ 
+- 따라서, 연소 확대 방지를 위하여 각 건물의 외벽 및 칸막이 벽을 내 화성 능이 확인된 구조(내화구조 인 정 받은 샌드위치 패널 등)로 보완할 필요가 있음.
+ 2. 소방시설 보완 및 방화관리 대책 
+- 화재현장의 공장동에는 소화기, 옥내 소화전설비, 옥외 소화전설비 및 자 동화재 탐지설비 등의 소방시설은 설치되 어 있으나, 발화 당시 초기 화재 진압에 실패하여 기존의 수동식 소화설비는 무용지물이 된 상태로 판단 되며, 용접 작업 등 화기 작업 장소 주변의 용접 불티비산으로 인한 발화 위험성에 대한 인식 결여 및 대처가 미흡했던 것으로 판단됨.
+ 
+- 따라서, 공장 동내 위험공정지역은 스프링클러 설비 등 자동식 소화설비 를 설치 보완하고, 용접 작업 등 화기 작업이 실시될 경우에 는 안전 담당 부서의 통제와 작업 현장에 대한 발화 위험성 파악 및 방화 덮개, 내화방 호물 등의 안전시설을 갖추도록 화기 작업 절차에 대한 관리기준 강화 및 시행이 필요하다고 사료됨.
+ 
+※ 흑백인쇄로 인하여 잘 보이지 않는 사진은 협회 홈페이지(kfpa. or.kr)에 로그인 후 지식창고 
+– 발간 자료 
+– 위험관리 정보에서 PDF로 확인 가능합니다.
+ 28 신착자료 신착 자료 목록 (2013. 4월) 등록번호 주제명 언어 잡지 명 출판년월 BB044884 화재조사 이론과 실무(폭발.감식) 한글 이승훈 201209 BB044888 소방화학 한글 김명철 201206 BB044889 가스기술사 이론 및 기 출문제 완벽분석 한글 이욱 범 201106 BB044890 소방경보 시스템공학 한글 공하성 외 9인 201203 BB04489 1 보험과 리스크 관리 한글 보험경영연구회 201008 BB044892 재난관리론 한글 김중구 외 5인 201209 BB044893 소화약제화학 한글 강윤진 외 6인 201209 JJ045441 유형별 재해사례-폭발 한글 안전기술 201304 JJ045442 전압 75V 이상 취급 작업 한글 안전기술 201304 JJ045443 정전기 화재폭발 예방 한글  안전기술 201304 JJ045444 초고층 건축물의 화재 리스크와 대피 한글 위험관리 201304 JJ045445 가스산업의 정량적 위험관리 시스템 체계 한글 위험관리 201304 G20 재난위험관리 사례집 분석을 통한 JJ045446 한글 위험관리 201304 재난위험관리 향후 방향 새로운 비지니스 연속성 관리 국제 표준 JJ045447 한글 위험 관리 201304 ISO22301 도시 거주지 화재 발생 요인의 위계설정을 통한 대한건축학회 논문집 JJ045448 한글 201301 화재 발생 위험 예측 모델 및 위험지도 개발 -계획계 한.미.일 건축법 비교를 통한 건축물 피난시설 대한건축학회 논문집 JJ045449 한글 201301 규정 개선방안 -계획계 JJ045462 Playing with fire 영어 S chadenspiegel 201009 JJ045463 Oil wells in deep water 영어 Schadenspiegel 201009 Disasters-A cultural history from the 16th to JJ045464 영어 Schadenspiegel 201009 the 21st century Global financial crisi s-Taking stock from the JJ045465 영어 Schadenspiegel 201009 liability perspective JJ045466 Disused refinery trigg ers oil al ert 영어 Schadenspiegel 201009 Compensation for pain and suff ering ? JJ045467 영 어 Schadenspiegel 201009 Aw ards set to rise furth er JJ045468 Coveted treasures 영어 Schadenspiegel 201009 JJ045469 Inn ocent behind bars 영어 Schadenspiegel 201009 JJ045470 Innovative harvesting tec hnique  reduces 영어 Schadenspiegel 201009 Bridge collapse due to design and JJ045471 영어 Schadenspiegel 201009 inspection er rors ? JJ045472 List of maj or losses 2009 to 2010 영어 Schadenspiegel 201009 JJ045473  Ageing infrastructure 영어 Schadenspiegel 201103 JJ045474 Maj or loss in hydroelectric power plant 영어 Schadenspiegel 201103 Deepwater H ori zon (1) Negligence or gross JJ045475 영어 Schadenspiegel 201103  negligence? 29 신착자료 Deepwater Hori zon (2) Purely fi nancial JJ045476 영어 Schadenspiegel 201103 losses JJ045477 Preventing f ires in wind turbines 영어 Schadenspiegel 201103 JJ045478 Dis charge pipes ?  an invis ible risk? 영어 Schadenspiegel 201103 JJ045479 Dam bursts in Hu ngary 영어 Schadenspiegel 201103 JJ045480 WTC ? Ten years on 영어 Schadenspiegel 201109 JJ045481 Ins urers have learned a valuable les son 영어 Schadenspiegel 201109 JJ045482 Ageing trans formers 영어 Schadenspiegel 201109 JJ045483 Danger averted 영어 Schadenspiegel 201109 JJ045484 Even safe construction has its lim its 영어 Schadenspiegel 2 01109 JJ045485 Lightning strikes hoarding 영어 Schadenspiegel 201109 JJ045486 List of maj or losses 2010? 2011 영어 Schadenspiegel 201109 JJ045487 Late success 영어 Schadenspiegel 201109 JJ045488 Flood caus es loss worth millions 영어 Schadenspiegel 201203 JJ045489 Difficult demolition 영어 Schadenspiegel 201203 JJ045490 A country submerged 영어 Schadenspiegel 201209 JJ045491 Cosy but dangerous 영어 Schadenspi egel 201209 JJ045492 Lis t of maj or losses 2011-2012 영어 Schadenspiegel 201209 JJ045493 Leading Light 영어 fire risk management 201304 JJ045494 Wildf ire action 영어 f ire risk management 201304 JJ045495 Mo del delivery 영어 fire risk management 201304 JJ045496 Construction risks 영어 fire risk management 201304 JJ045497 Holistic handling 영어 f ire risk management 201304 JJ045498 Smoke secure 영어 fire risk ma nagem ent 201304 JJ045499 Top pressure 영어 fire risk management 201304 JJ045500 Flexible strategy 영어 f ire risk management 201304 JJ045501 Canny catering 영어 fire risk management 201304 JJ045502 Open an d shut case 영어 fire risk management 201304 JJ045503 Clear influence 영어 fire risk management 201304 에어컨 실내기의 화재 사례 분석 및 JJ045504 한글 전기안전기술 201304 예방대책에 관한 연구 RR301120 2012연차보고서 한글 한국은행 201303 헬리콥터 공중  살수에 의 한 시가지 화재 시 연 RR 301121 일어 소연집 보 65 201203 소 확대 지연에 관한 연구 RR301122 alternator로부터 발생한 차량 화재에 대해 일어 소연집 보 65 201203 방폭형 조명기구가 번개에 의 해 폭발한 화재 RR301123 일어 소연집 보 65 201203 에 대해 RR 301124 경사감 지경보기 일어 소연집 보 65 20 1203 30 안내 판매도서 안내 할인율 안내 협회 발간도서 번역 발간도서 특별회원 (연회비 15만원) 40% 20% 일반회원 (연회비 6만원) 20% 10% (단위 : 원) 도 서 명 출판년도 보급가 일반회원 특별회원 화재안전점검 매뉴얼 제8판 2011 25,000 22,500 20,000 NFPA 자동식 스프링클러 설비 핸드북 2011 200,000 180 , 000 160,000 (2010판) NFPA 921 화재·폭발 조사 가이드 2009 50,000 45,000 40,000 방재기술 자료집 Ⅱ 1998 20,000 16,000 12,000 NFPA 가스계 소화설비 기준 2008 20,000 18,000 16,000 NFPA 물분무·미분무수설비 기준 2008 16,000 14, 400 12,800 NFPA 제연· 공조설비 기준 2008 25,000 22,500 20,000 NFPA 5000 건축물 구조 및 안전코드 2007 100,000 90,000 80,000 SFPE 방화공학 핸드북 제3판 2005 200,000 180,000 160,000 화재 사례 10집 2003 10,000 8,000 6,000 
+✿ 인터넷 구입 
+✿ 전화 문의 홈페이지 www. kfpa. or. kr 고객 서비스팀 TEL 02-3780-0313 
+『도서 안내』 코너에서 주문 FAX 02-3780-0329 
+✿ 입금 계좌 안내 외 환은행 061-13-40679-6 농협중앙회 083-01-254221 신 한은행 100-010-588138 국민은행 099-01-0265-494
+ <예금주 : 한국화재보험협회 > 31

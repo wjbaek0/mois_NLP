@@ -1,0 +1,4 @@
+pip install gluonnlp
+pip install mxnet
+pip install transformers==4.8.2
+pip install sentencepiece==0.1.91

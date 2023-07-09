@@ -1,0 +1,17 @@
+<classification predict start....>
+-----------------------------------------
+>> 추론된 값은 ==> 공사장사고
+> 공사장사고의 confidence score : 55 % 
+> 화재사고의 confidence score : 45 % 
+> 환경오염사고의 confidence score : 0 % 
+> 붕괴폭발사고의 confidence score : 0 % 
+> 해난사고의 confidence score : 0 % 
+> 교통사고의 confidence score : 0 % 
+----- json out -----
+{'title': '공사장사고', ' value': 55}
+{'title': '화재사고', ' value': 45}
+{'title': '환경오염사고', ' value': 0}
+{'title': '붕괴폭발사고', ' value': 0}
+{'title': '해난사고', ' value': 0}
+{'title': '교통사고', ' value': 0}
+[predict Complete: 0:00:18.558165]

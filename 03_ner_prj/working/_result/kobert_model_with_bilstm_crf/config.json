@@ -1,0 +1,18 @@
+{
+  "hidden_size": 768,
+  "maxlen": 30,
+  "epochs": 10000,
+  "batch_size": 128,
+  "dropout": 0.1,
+  "learning_rate": 1e-4,
+  "warmup_proportion": 0.1,
+  "gradient_accumulation_steps": 1,
+  "summary_step": 100,
+  "adam_epsilon": 1e-8,
+  "warmup_steps": 0,
+  "max_grad_norm": 1,
+  "logging_steps": 100,
+  "evaluate_during_training": true,
+  "save_steps": 100,
+  "output_dir": "./_result/kobert_model_with_bilstm_crf"
+}

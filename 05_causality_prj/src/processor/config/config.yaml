@@ -1,0 +1,16 @@
+# 학습에 필요한 config 파일 정의
+
+KCBERT :
+  GPUS : 1
+  DATASET_NAME      : "CausalData"
+  keep_test_order   : True
+  REL_MIN_EPOCHS    : 4
+  REL_MAX_EPOCHS    : 4
+  REL_BATCH_SIZE    : 8
+  REL_LINEAR_SIZE   : 256
+  REL_DROPOUT_P     : 0.1
+  REL_WEIGHT_DECAY  : 0.01 # default = 0.01
+  REL_LEARNING_RATE : 2e-05
+  REL_ACTIVATION_FUNCTION : "PReLU"
+  pretrained_model_name   : "beomi/kcbert-base"
+  REL_LEARNING_RATE_DECAY_SPEED : [1, 1, 0.75, 0.5, 0.25, 0.1, 0.075, 0.05, 0.025, 0.01]

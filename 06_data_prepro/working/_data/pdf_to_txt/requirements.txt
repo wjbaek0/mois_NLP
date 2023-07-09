@@ -1,0 +1,7 @@
+hanja==0.13.3
+pandas
+pywin32==303
+re
+pathlib
+shutil
+pdfplumber==0.6.0

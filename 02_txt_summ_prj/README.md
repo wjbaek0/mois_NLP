@@ -36,6 +36,5 @@ python make_json.py
 ```linux
 pip install lexrankr
 ```
-위 명령어로 설치된 패키지 폴더에 인덱스 추출, 누락 방지 등의 후처리를 위해 수정한 lexrankr.py를 덮어쓰기
+위 명령어로 설치된 패키지 폴더에 인덱스 추출, 누락 방지 등의 후처리를 위해 수정한 lexrankr.py를 덮어쓰기(보유x)
 
-(수정된 lexrank.py 파일 링크<br/>&nbsp;https://github.com/XAI-AI-LAB/004_mois/blob/55123f3afb6b8f8207fabfb6a612b23c913577e9/02_txt_summ_prj/working/_git_src/lexrankr.py)
